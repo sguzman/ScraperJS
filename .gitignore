@@ -56,4 +56,7 @@ typings/
 
 # dotenv environment variables file
 .env
-
+items.json
+http.json
+yarn.lock
+.idea/

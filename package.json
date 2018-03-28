@@ -1,0 +1,10 @@
+{
+  "name": "scraperjs",
+  "version": "1.0.0",
+  "description": "A rewrite of my rewrite scraper in JS again - for prototyping purposes",
+  "main": "src/index.js",
+  "repository": "https://github.com/sguzman/ScraperJS",
+  "author": "Salvador Guzman <guzmansalv@gmail.com>",
+  "license": "Unlicense",
+  "private": false
+}
